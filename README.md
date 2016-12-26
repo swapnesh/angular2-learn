@@ -8,9 +8,20 @@
 
 Screenhots for the app -
 
-![Home page](http://imgur.com/a/4uYWM "Home page")
+## Home page
+![Home page](http://i.imgur.com/CaqLTXE.png "Home page")
+
+## About page
 ![About page](http://imgur.com/a/sqaY2 "About page")
+
+## ideas page
 ![Ideas page](http://imgur.com/a/9sx9K "Ideas page")
+
+## Cases page
 ![Cases page](http://imgur.com/a/EWgZ5 "Cases page")
+
+## News page
 ![News page](http://imgur.com/a/LVnJh "News page")
+
+## Contact page
 ![Contact page](http://imgur.com/a/ijrCv "Contact page")
