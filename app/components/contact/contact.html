@@ -1,0 +1,40 @@
+<div class="container">
+    <h3>{{title}} page</h3>
+    <div class="row">
+      <div class="col-sm-12">
+        <form (ngSubmit)="formSubmit(model); contactForm.reset();" #contactForm="ngForm">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" class="form-control" id="name" name="name" [(ngModel)]="model.name" required  />
+          </div>
+          <div class="form-group">
+            <label for="power">Country</label>
+            <select class="form-control sel-h-100" required>
+              <option *ngFor="let country of countries" [value]="country">{{country}}</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="name">Company</label>
+            <input type="text" class="form-control" id="company" name="company" [(ngModel)]="model.company" required  />
+          </div>
+          <div class="form-group">
+            <label for="name">Title</label>
+            <input type="text" class="form-control" id="title" name="title" [(ngModel)]="model.title" required  />
+          </div>      
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" class="form-control" id="email" name="email" [(ngModel)]="model.email" required />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone</label>
+            <input type="tel" class="form-control" id="phone" name="phone" [(ngModel)]="model.phone" />
+          </div>
+          <div class="form-group">
+            <label for="comment">Comment</label>
+            <textarea class="form-control" id="comment" name="comment" [(ngModel)]="model.comment" ></textarea>
+          </div>
+          <button type="submit" class="btn btn-default" [disabled]="!contactForm.form.valid">Submit</button>
+        </form>
+      </div>  
+    </div>
+</div>

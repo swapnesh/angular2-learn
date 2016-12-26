@@ -1,0 +1,35 @@
+.bg-class {
+	background: #F4F0EC;
+	margin-top: -18px;
+}
+
+.container.bg-class::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    background: #F16667;
+    height: 30%;
+    left: 0;
+}
+
+.about-class h2 {
+	font-weight: 800;
+}
+
+.mg-top-50 {
+	margin-top: 50px;
+}
+
+.text-justify {
+	text-align: justify;
+}
+
+.w_100 {
+	width: 100%;
+}
+
+.h2-bold {
+	font-size: 3em;
+	line-height: 48px;
+	font-weight: 800;
+}

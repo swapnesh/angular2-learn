@@ -1,0 +1,26 @@
+.bg-class {
+	background: #F4F0EC;
+	margin-top: -18px;
+}
+
+.about-class h2 {
+	font-weight: 800;
+}
+
+.mg-top-50 {
+	margin-top: 50px;
+}
+
+.text-justify {
+	text-align: justify;
+}
+
+.w_100 {
+	width: 100%;
+}
+
+.h2-bold {
+	font-size: 3em;
+	line-height: 48px;
+	font-weight: 800;
+}
