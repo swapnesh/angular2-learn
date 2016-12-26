@@ -9,19 +9,19 @@
 Screenhots for the app -
 
 ## Home page
-![Home page](http://i.imgur.com/CaqLTXE.png "Home page")
+![Home page](https://raw.githubusercontent.com/swapnesh/angular2-learn/master/screenshots/prj_1.PNG "Home page")
 
 ## About page
-![About page](http://imgur.com/a/sqaY2 "About page")
+![About page](https://raw.githubusercontent.com/swapnesh/angular2-learn/master/screenshots/prj_2.PNG "About page")
 
 ## ideas page
-![Ideas page](http://imgur.com/a/9sx9K "Ideas page")
+![Ideas page](https://raw.githubusercontent.com/swapnesh/angular2-learn/master/screenshots/prj_3.PNG "Ideas page")
 
 ## Cases page
-![Cases page](http://imgur.com/a/EWgZ5 "Cases page")
+![Cases page](https://raw.githubusercontent.com/swapnesh/angular2-learn/master/screenshots/prj_4.PNG "Cases page")
 
 ## News page
-![News page](http://imgur.com/a/LVnJh "News page")
+![News page](https://raw.githubusercontent.com/swapnesh/angular2-learn/master/screenshots/prj_5.PNG "News page")
 
 ## Contact page
-![Contact page](http://imgur.com/a/ijrCv "Contact page")
+![Contact page](https://raw.githubusercontent.com/swapnesh/angular2-learn/master/screenshots/prj_6.PNG "Contact page")
